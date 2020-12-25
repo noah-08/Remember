@@ -18,5 +18,5 @@ class Strstr
     }
 }
 
-$strstrLearn = new Strstr();
-echo $strstrLearn->StrstrLearn('name@example.com', '@');
+$StrstrExample = new Strstr();
+echo $StrstrExample->StrstrLearn('name@example.com', '@');

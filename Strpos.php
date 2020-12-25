@@ -17,5 +17,5 @@ class Strpos
     }
 }
 
-$StrposLearn = new Strpos();
-$StrposLearn->StrposLearn('I love php, I love php too!', 'php');
+$StrposExample = new Strpos();
+$StrposExample->StrposLearn('I love php, I love php too!', 'php');

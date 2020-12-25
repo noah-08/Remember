@@ -17,5 +17,5 @@ class Stripos
     }
 }
 
-$StriposLearn = new Stripos();
-$StriposLearn->StriposLearn('I love PHP, I love php too!', 'PHP');
+$StriposExample = new Stripos();
+$StriposExample->StriposLearn('I love PHP, I love php too!', 'PHP');

@@ -21,5 +21,5 @@ class Strrpos
     }
 }
 
-$strrposLearn = new Strrpos();
-$strrposLearn->StrrposLearn('0123456789a123456789b123456789c','7');
+$StrrposExample = new Strrpos();
+$StrrposExample->StrrposLearn('0123456789a123456789b123456789c','7');

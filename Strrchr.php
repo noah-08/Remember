@@ -13,5 +13,5 @@ class Strrchr
     }
 }
 
-$strrchrLearn = new Strrchr();
-echo $strrchrLearn->StrrchrLearn('Hello World!','World');
+$StrrchrExample = new Strrchr();
+echo $StrrchrExample->StrrchrLearn('Hello World!','World');
