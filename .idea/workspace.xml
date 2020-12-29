@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b09b39-9fb1-4e07-9c71-ff6b442b9dbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayColumn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraySearch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayUnique.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsNumeric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrPad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrRepeat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrRev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrSplit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,8 @@
       <workItem from="1608798114822" duration="5319000" />
       <workItem from="1608854667243" duration="8021000" />
       <workItem from="1608943485290" duration="6846000" />
-      <workItem from="1609114895935" duration="9399000" />
+      <workItem from="1609114895935" duration="10187000" />
+      <workItem from="1609206676945" duration="6144000" />
     </task>
     <servers />
   </component>
@@ -90,10 +91,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608854937955" />
-    <state x="770" y="240" key="NewPhpClassDialog" timestamp="1609124940824">
+    <state x="770" y="240" key="NewPhpClassDialog" timestamp="1609212863414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="240" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609124940824" />
+    <state x="770" y="240" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609212863414" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608946654091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
