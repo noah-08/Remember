@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b09b39-9fb1-4e07-9c71-ff6b442b9dbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPush.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayShift.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayUnshift.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayCombine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayCountValues.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDiffAssoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDiffKey.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDiffUassoc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,8 @@
       <workItem from="1609751468851" duration="625000" />
       <workItem from="1609752471220" duration="8000" />
       <workItem from="1609752577517" duration="978000" />
-      <workItem from="1609805247730" duration="5263000" />
+      <workItem from="1609805247730" duration="5731000" />
+      <workItem from="1609903319676" duration="3757000" />
     </task>
     <servers />
   </component>
@@ -97,10 +98,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609805252070" />
-    <state x="770" y="240" key="NewPhpClassDialog" timestamp="1609809706249">
+    <state x="770" y="240" key="NewPhpClassDialog" timestamp="1609916534658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="240" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609809706249" />
+    <state x="770" y="240" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609916534658" />
+    <state x="776" y="443" key="NewPhpFileDialog" timestamp="1609915173728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609915173728" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608946654091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,9 +118,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="290" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608859355385" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609401584884">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609915904565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609401584884" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609915904565" />
   </component>
 </project>
