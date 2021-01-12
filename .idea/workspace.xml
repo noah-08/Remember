@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b09b39-9fb1-4e07-9c71-ff6b442b9dbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayKeyExists.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Key.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NatCaseSort.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Usort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ltrim.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprintf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrToLower.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrToUpper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strtok.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,8 @@
       <workItem from="1609985422843" duration="6552000" />
       <workItem from="1610067101772" duration="6716000" />
       <workItem from="1610323908859" duration="3834000" />
-      <workItem from="1610347950405" duration="5114000" />
+      <workItem from="1610347950405" duration="5808000" />
+      <workItem from="1610411107647" duration="4882000" />
     </task>
     <servers />
   </component>
@@ -102,10 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609805252070" />
-    <state x="845" y="130" width="379" height="558" key="NewPhpClassDialog" timestamp="1610352743136">
+    <state x="845" y="130" width="379" height="558" key="NewPhpClassDialog" timestamp="1610414494930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="845" y="130" width="379" height="558" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610352743136" />
+    <state x="845" y="130" width="379" height="558" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610414494930" />
     <state x="776" y="443" key="NewPhpFileDialog" timestamp="1610071154859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
