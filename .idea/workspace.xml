@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0b09b39-9fb1-4e07-9c71-ff6b442b9dbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CallUserFunc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallUserFuncArray.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreateFunction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForwardStaticCall.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForwardStaticCallArray.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/remember.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remember.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +37,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Question-Bank" />
   </component>
   <component name="ProjectId" id="1m5zCgM9mmtV7tU6x9TWcwvL8HF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Question-Bank" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +84,9 @@
       <workItem from="1610411107647" duration="5148000" />
       <workItem from="1610605445111" duration="4752000" />
       <workItem from="1610681779457" duration="1903000" />
-      <workItem from="1610699420952" duration="1343000" />
+      <workItem from="1610699420952" duration="1419000" />
+      <workItem from="1610700861059" duration="14000" />
+      <workItem from="1611037276343" duration="1340000" />
     </task>
     <servers />
   </component>
@@ -102,10 +106,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609805252070">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1611037295132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609805252070" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611037295132" />
     <state x="845" y="130" width="379" height="558" key="NewPhpClassDialog" timestamp="1610700459785">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -126,9 +130,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="290" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608859355385" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1610700024073">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611040590209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610700024073" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611040590209" />
   </component>
 </project>
