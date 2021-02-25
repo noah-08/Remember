@@ -3,9 +3,8 @@
 class CtypeSpace
 {
     /**
-     * 做空白字符检测
+     * 做空白字符检测 检查提供的 string 和 text 里面的字符是否包含空白
      * ctype_space ( string $text ) : bool
-     * 检查提供的 string 和 text 里面的字符是否包含空白
      * @param $strings string 需要被检测的字符
      */
     public function CtypeSpaceLearn($strings)
